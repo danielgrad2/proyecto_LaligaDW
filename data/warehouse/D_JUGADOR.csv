@@ -1,0 +1,1034 @@
+ID_JUGADOR,NOMBRE_JUGADOR,POSICION,NACIONALIDAD,ANO_NACIMIENTO
+1,Julen Agirrezabala,GK,ESP,2000
+2,Lucien Agoume,MF,FRA,2002
+3,Diego Aguado,DF,ESP,2007
+4,Marc Aguado,MF,ESP,2000
+5,Pablo Agudín,MF,ESP,2007
+6,Ibai Aguirre,MF,ESP,2007
+7,Lucas Ahijado,DF,ESP,1995
+8,Joseph Aidoo,DF,GHA,1995
+9,Ilias Akhomach,"MF,FW",MAR,2004
+10,David Alaba,DF,AUT,1992
+11,Alexandre Alemão,FW,BRA,1998
+12,Carles Aleñá,MF,ESP,1998
+13,Trent Alexander-Arnold,DF,ENG,1998
+14,Alfon,MF,ESP,1999
+15,Thiago Almada,"MF,FW",ARG,2001
+16,Domingos André Ribeiro Almeida,MF,POR,2000
+17,Marcos Alonso,DF,ESP,1990
+18,Adrià Altimira,"DF,MF",ESP,2001
+19,Sergi Altimira,MF,ESP,2001
+20,Carlos Álvarez,MF,ESP,2003
+21,Hugo Álvarez,"FW,MF",ESP,2003
+22,Julián Álvarez,FW,ARG,2000
+23,Yeray Álvarez,DF,ESP,1995
+24,Sofyan Amrabat,MF,MAR,1996
+25,Manuel Ángel,MF,ESP,2004
+26,Miguel Ángel Rubio,DF,ESP,1998
+27,Miguel Ángel Sierra,FW,ESP,2004
+28,Andrés Antañón,FW,ESP,2007
+29,Antoniu,MF,ESP,2002
+30,Antony,"MF,FW",BRA,2000
+31,Mauro Arambarri,MF,URU,1995
+32,Jon Aramburu,DF,VEN,2002
+33,Juan Arango,MF,VEN,2006
+34,Ronald Araújo,DF,URU,1999
+35,Jesús Areso,DF,ESP,1999
+36,Iñigo Arguibide,DF,ESP,2005
+37,Kervin Arriaga,MF,HON,1998
+38,Takuma Asano,"MF,FW",JPN,1994
+39,Raúl Asencio,DF,ESP,2003
+40,Iago Aspas,"FW,MF",ESP,1987
+41,Yaser Asprilla,"FW,MF",COL,2003
+42,Lander Astiazaran,MF,ESP,2006
+43,Ezequiel Ávila,FW,ARG,1994
+44,César Azpilicueta,DF,ESP,1989
+45,Alex Baena,"MF,FW",ESP,2001
+46,Eric Bailly,DF,CIV,1994
+47,Cédric Bakambu,FW,COD,1991
+48,Alejandro Balde,DF,ESP,2003
+49,Carlos Ballestero,DF,ESP,2004
+50,Iván Balliu,DF,ALB,1992
+51,Roony Bardghji,"MF,FW",SWE,2005
+52,Kike Barja,MF,ESP,1997
+53,Ander Barrenetxea,"MF,FW",ESP,2001
+54,Pablo Barrios,MF,ESP,2003
+55,Marc Bartra,DF,ESP,1991
+56,Augusto Batalla,GK,ARG,1996
+57,Samu Becerra,MF,ESP,2006
+58,Sheraldo Becker,"FW,MF",SUR,1995
+59,Donny van de Beek,MF,NED,1997
+60,Luken Beitia,DF,ESP,2004
+61,Ismael Bekhoucha,DF,MAR,2004
+62,Rayane Belaid,"MF,FW",ESP,2005
+63,Héctor Bellerín,DF,ESP,1995
+64,Jude Bellingham,MF,ENG,2003
+65,Fran Beltrán,MF,ESP,1999
+66,Lucas Beltrán,FW,ARG,2001
+67,Carlos Benavídez,DF,URU,1998
+68,Iker Benito,MF,ESP,2002
+69,Yuri Berchiche,DF,ESP,1990
+70,Álex Berenguer,MF,ESP,1995
+71,Lucas Bergström,GK,FIN,2002
+72,Marc Bernal,MF,ESP,2007
+73,Pedro Bigas,DF,ESP,1990
+74,Veljko Birmančević,FW,SRB,1998
+75,Antonio Blanco,MF,ESP,2000
+76,Daley Blind,DF,NED,1990
+77,Adam Boayar,MF,MAR,2005
+78,Adama Boiro,DF,ESP,2002
+79,Javier Boñar,DF,ESP,2005
+80,Rahim Bonkano,DF,NIG,2002
+81,Thiago Borbas,FW,URU,2002
+82,Sebastián Boselli,DF,URU,2003
+83,Lucas Boyé,FW,ARG,1996
+84,Enzo Boyomo,DF,CMR,2001
+85,Josip Brekalo,"MF,FW",CRO,1998
+86,Abel Bretones,"MF,DF",ESP,2000
+87,Brugui,"MF,FW",ESP,1996
+88,Tajon Buchanan,MF,CAN,1999
+89,Ante Budimir,FW,CRO,1991
+90,Manu Bueno,MF,ESP,2004
+91,Jorge Cabello,DF,ESP,2004
+92,Leandro Cabrera,DF,URU,1991
+93,Calebe,MF,BRA,2000
+94,Fernando Calero,DF,ESP,1995
+95,Duje Ćaleta-Car,DF,CRO,1996
+96,Dani Calvo,DF,ESP,1994
+97,Dawda Camara,FW,MTN,2002
+98,Eduardo Camavinga,MF,FRA,2002
+99,Sergio Camello,"FW,MF",ESP,2001
+100,João Cancelo,DF,POR,1994
+101,Dani Cárdenas,GK,ESP,1997
+102,Sergi Cardona,DF,ESP,1999
+103,Fábio Cardoso,DF,POR,1994
+104,Johnny Cardoso,MF,USA,2001
+105,David Carmo,DF,ANG,1999
+106,Carmona,"DF,MF",ESP,2002
+107,Sergio Carreira,MF,ESP,2000
+108,Gorka Carrera,FW,ESP,2005
+109,Álvaro Carreras,DF,ESP,2003
+110,Dani Carvajal,DF,ESP,1992
+111,Marc Casado,MF,ESP,2003
+112,Castrin,DF,ESP,2003
+113,Jonny Castro,DF,ESP,1994
+114,Catena,DF,ESP,1994
+115,Santi Cazorla,MF,ESP,1984
+116,Dani Ceballos,MF,ESP,1996
+117,Lucas Cepeda,MF,CHI,2002
+118,Jorge Cestero,MF,ESP,2006
+119,Ilyas Chaira,MF,MAR,2001
+120,Pep Chavarría,DF,ESP,1998
+121,Andreas Christensen,DF,DEN,1996
+122,Víctor Chust,DF,ESP,2000
+123,Pathé Ciss,"MF,DF",SEN,1994
+124,Santiago Colombatto,MF,ARG,1997
+125,Eray Cömert,DF,SUI,1998
+126,Santi Comesaña,MF,ESP,1996
+127,Copete,DF,ESP,1999
+128,Iván Corralejo,MF,ESP,2007
+129,Thierry Correia,"DF,MF",POR,1999
+130,Paco Cortés,"MF,FW",ESP,2007
+131,Coba da Costa,MF,ESP,2002
+132,Samu Costa,MF,POR,2000
+133,David Costas,DF,ESP,1995
+134,Thibaut Courtois,GK,BEL,1992
+135,Juan Cruz Armada,DF,ESP,1992
+136,Pau Cubarsí,DF,ESP,2007
+137,Miguel Cubo,FW,ESP,2008
+138,Cucho,FW,COL,1999
+139,Pablo Cuñat,GK,ESP,2002
+140,Arnaut Danjuma,"MF,FW",NED,1997
+141,Sergi Darder,MF,ESP,1993
+142,Davinchi,DF,ESP,2007
+143,Leander Dendoncker,MF,BEL,1995
+144,Nelson Deossa,MF,COL,2000
+145,Ibrahim Diabaté,FW,CIV,1999
+146,Bambo Diaby,DF,SEN,1997
+147,Mouctar Diakhaby,DF,GUI,1996
+148,Grady Diangana,MF,COD,1998
+149,Moussa Diarra,DF,MLI,2000
+150,Brahim Díaz,"MF,FW",MAR,1999
+151,Daniel Díaz,FW,ESP,2006
+152,Julio Diaz,DF,ESP,2005
+153,Pedro Díaz,"MF,FW",ESP,1998
+154,Stole Dimitrievski,GK,MKD,1993
+155,Matías Dituro,GK,ARG,1987
+156,Djené,"DF,MF",TOG,1991
+157,Marko Dmitrović,GK,SRB,1992
+158,Tyrhys Dolan,MF,ENG,2001
+159,Marc Domenech,MF,ESP,2006
+160,Carlos Dominguez,DF,ESP,2001
+161,John Donald,"DF,MF",ESP,2000
+162,Domingos Duarte,DF,POR,1995
+163,Pablo Durán,"FW,MF",ESP,2001
+164,Hugo Duro,FW,ESP,1999
+165,Claudio Echeverri,"FW,MF",ARG,2006
+166,Ovie Ejaria,MF,ENG,1997
+167,Chidera Ejuke,"MF,FW",NGA,1998
+168,Unai Elgezabal,"DF,MF",ESP,1993
+169,Aritz Elustondo,DF,ESP,1994
+170,Endrick,FW,BRA,2006
+171,Aarón Escandell,GK,ESP,1995
+172,Xavi Espart,DF,ESP,2007
+173,Carlos Espí,FW,ESP,2005
+174,Alfonso Espino,"DF,MF",URU,1992
+175,Marco Esteban,DF,ESP,2006
+176,Karl Etta Eyong,FW,CMR,2003
+177,Edu Expósito,MF,ESP,1996
+178,Abde Ezzalzouli,"MF,FW",MAR,2001
+179,Omar Falah,DF,ESP,2003
+180,Aleix Febas,MF,ESP,1996
+181,Luiz Felipe,DF,ITA,1997
+182,Kiko Femenía,"DF,MF",ESP,1991
+183,Dro Fernández,MF,ESP,2008
+184,Manu Fernández,DF,ESP,2001
+185,Pelayo Fernandez,DF,ESP,2003
+186,Roberto Férnandez,FW,ESP,2002
+187,Thiago Fernández,MF,ARG,2004
+188,Toni Fernández,FW,ESP,2008
+189,Álvaro Fidalgo,MF,MEX,1997
+190,Junior Firpo,DF,DOM,1996
+191,Nicolas Fonseca,MF,URU,1998
+192,Álex Forés,FW,ESP,2001
+193,Pablo Fornals,MF,ESP,1996
+194,Héctor Fort,"DF,MF",ESP,2006
+195,Dimitri Foulquier,DF,FRA,1993
+196,Juan Foyth,DF,ARG,1998
+197,Alejandro Francés,DF,ESP,2002
+198,Alex Freeman,DF,USA,2004
+199,Jorge de Frutos,"FW,MF",ESP,1997
+200,Javi Galán,DF,ESP,1994
+201,Iñigo Ruiz de Galarreta,MF,ESP,1993
+202,Conor Gallagher,MF,ENG,2000
+203,Facundo Garcés,DF,MAS,1999
+204,Álvaro García,"MF,FW",ESP,1992
+205,Eder García,FW,ESP,2004
+206,Eric García,"DF,MF",ESP,2001
+207,Fran Garcia,"DF,MF",ESP,1999
+208,Gonzalo García,FW,ESP,2004
+209,Hugo García,MF,ESP,2006
+210,Joan García,GK,ESP,2001
+211,Pablo Garcia,MF,ESP,2006
+212,Rubén García,"MF,FW",ESP,1993
+213,Víctor García,"MF,FW",ESP,1997
+214,Federico Gattoni,DF,ARG,1999
+215,Gavi,MF,ESP,2004
+216,Paulo Gazzaniga,GK,ARG,1992
+217,Mourad El Ghezouani,FW,MAR,1998
+218,Bryan Gil,MF,ESP,2001
+219,Moi Gómez,MF,ESP,1994
+220,Sergio Gómez,DF,ESP,2000
+221,Unai Gómez,"MF,FW",ESP,2003
+222,Valentín Gómez,DF,ARG,2003
+223,Hugo González,FW,ESP,2003
+224,Nicolás González,"MF,DF",ARG,1998
+225,Urko González,"DF,MF",ESP,2001
+226,Andoni Gorosabel,DF,ESP,1996
+227,Jon Gorrotxategi,MF,ESP,2002
+228,Mikel Goti,MF,ESP,2002
+229,Antoine Griezmann,FW,FRA,1991
+230,Nemanja Gudelj,"DF,MF",SRB,1991
+231,Gonçalo Guedes,MF,POR,1996
+232,Javier Guerra,MF,ESP,2003
+233,Daniel Guerrero,MF,ESP,2005
+234,Ander Guevara,MF,ESP,1997
+235,Pape Gueye,MF,SEN,1999
+236,Arda Güler,MF,TUR,2005
+237,Gerard Gumbau,MF,ESP,1994
+238,Jon Guridi,"MF,FW",ESP,1995
+239,Gorka Guruzeta,FW,ESP,1996
+240,Dávid Hancko,DF,SVK,1997
+241,Haissem Hassan,"MF,FW",EGY,2002
+242,Jorge Herrando,DF,ESP,2001
+243,Sergio Herrera,GK,ESP,1993
+244,Yangel Herrera,MF,VEN,1998
+245,Asier Hierro,FW,ESP,2005
+246,Omar El Hilali,DF,MAR,2003
+247,Ali Houary,MF,MAR,2005
+248,Dean Huijsen,DF,ESP,2005
+249,Pablo Ibáñez,MF,ESP,1998
+250,Stanis Idumbo,MF,BEL,2005
+251,Iglesias,DF,ESP,1998
+252,Borja Iglesias,FW,ESP,1993
+253,Luka Ilić,"MF,FW",SRB,1999
+254,Isco,"FW,MF",ESP,1992
+255,Urko Izeta,FW,ESP,1999
+256,Jairo Izquierdo,"DF,FW",ESP,1993
+257,Adnan Januzaj,"MF,FW",BEL,1995
+258,Mikel Jauregizar,MF,ESP,2003
+259,David Jiménez,DF,ESP,2004
+260,Jofre,MF,ESP,2001
+261,Frenkie de Jong,MF,NED,1997
+262,Joan Jordán,MF,ESP,1994
+263,Josan,"MF,DF",ESP,1989
+264,Mateo Joseph,"MF,FW",ESP,2003
+265,Juanmi,"FW,MF",ESP,1993
+266,Luiz Lúcio Reis Júnior,GK,BRA,2001
+267,Vinicius Júnior,"FW,MF",BRA,2000
+268,Ferran Jutglà,"FW,MF",ESP,1999
+269,Justin-Noël Kalumba,FW,FRA,2004
+270,Abu Kamara,MF,ENG,2003
+271,Willy Kambwala,DF,FRA,2004
+272,Jon Karrikaburu,FW,ESP,2002
+273,Kiké,FW,ESP,1989
+274,Koke,MF,ESP,1992
+275,Luca Koleosho,MF,ITA,2004
+276,Ville Koski,DF,FIN,2002
+277,Jules Koundé,DF,FRA,1998
+278,Lancinet Kourouma,FW,GUI,2004
+279,Goduine Koyalipou,FW,CTA,2000
+280,Vladyslav Krapyvtsov,GK,UKR,2005
+281,Ladislav Krejčí,DF,CZE,1999
+282,Takefusa Kubo,MF,JPN,2001
+283,Marash Kumbulla,DF,ALB,2000
+284,Adrián de la Fuente,DF,ESP,1999
+285,Yoel Lago,DF,ESP,2004
+286,Aymeric Laporte,DF,ESP,1994
+287,Toni Lato,"DF,MF",ESP,1997
+288,Robin Le Normand,DF,ESP,1996
+289,Florian Lejeune,DF,FRA,1991
+290,Youssef Lekhedim,"DF,MF",ESP,2005
+291,Iñigo Lekue,DF,ESP,1993
+292,Thomas Lemar,MF,FRA,1995
+293,Ruben Lendinez,DF,ESP,2003
+294,Clément Lenglet,DF,FRA,1995
+295,Robert Lewandowski,FW,POL,1988
+296,Adrián Liso,"FW,MF",ESP,2005
+297,Javier Llabrés,MF,ESP,2002
+298,Diego Llorente,DF,ESP,1993
+299,Marcos Llorente,DF,ESP,1995
+300,Giovani Lo Celso,MF,ARG,1996
+301,Ademola Lookman,"FW,MF",NGA,1997
+302,David López,DF,ESP,2003
+303,Diego López,"MF,FW",ESP,2002
+304,Fer López,"MF,FW",ESP,2004
+305,Fermin López,MF,ESP,2003
+306,Hugo López,MF,ESP,2007
+307,Javi López,DF,ESP,2002
+308,Pau López,GK,ESP,1994
+309,Unai López,MF,ESP,1995
+310,Iker Losada,MF,ESP,2001
+311,Pol Lozano,MF,ESP,1999
+312,Sergio Lozano,MF,ESP,1999
+313,Oier Luengo,DF,ESP,1997
+314,José Luis Gayà,DF,ESP,1995
+315,José Luis Morales,MF,ESP,1987
+316,Dodi Lukebakio,MF,BEL,1997
+317,Andriy Lunin,GK,UKR,1999
+318,Iker Luque,DF,ESP,2005
+319,Zito Luvumbo,"FW,MF",ANG,2002
+320,Carlos Macià,MF,ESP,2008
+321,Pablo Maffeo,DF,ESP,1997
+322,Aitor Mañas,FW,ESP,2003
+323,Marcão,DF,BRA,1996
+324,José María Giménez,DF,URU,1995
+325,Mariano,FW,DOM,1993
+326,Arkaitz Mariezkurrena,FW,ESP,2005
+327,Pablo Marín,MF,ESP,2003
+328,Rafa Marín,DF,ESP,2002
+329,Tomas Marques,MF,ESP,2006
+330,Carlos Martín,"MF,FW",ESP,2002
+331,Gerard Martín,DF,ESP,2002
+332,Iván Martín,MF,ESP,1999
+333,Jon Martin,DF,ESP,2006
+334,Mario Martín,"MF,FW",ESP,2004
+335,Arnau Martinez,"DF,MF",ESP,2003
+336,Daniel Martinez,DF,ESP,2004
+337,Joaquín Martínez Gauna,"MF,DF",ESP,2003
+338,Pablo Martínez,MF,ESP,1998
+339,Ramón Martínez,DF,ESP,2002
+340,Toni Martínez,FW,ESP,1997
+341,Omar Mascarell,"MF,DF",EQG,1993
+342,Franco Mastantuono,"MF,FW",ARG,2007
+343,Alan Matturro,DF,URU,2004
+344,Neal Maupay,FW,FRA,1996
+345,Borja Mayoral,FW,ESP,1997
+346,Kylian Mbappé,FW,FRA,1998
+347,Brais Méndez,"MF,FW",ESP,1997
+348,Rodrigo Mendoza,"MF,FW",ESP,2005
+349,Batista Mendy,MF,FRA,2000
+350,Ferland Mendy,DF,FRA,1995
+351,Nobel Mendy,DF,SEN,2004
+352,Alejandro Mestanza,MF,ESP,2004
+353,Georges Mikautadze,FW,GEO,2000
+354,Éder Militão,DF,BRA,1998
+355,Luis Milla,MF,ESP,1994
+356,Pere Milla,"MF,FW",ESP,1992
+357,Óscar Mingueza,"MF,DF",ESP,1999
+358,Bojan Miovski,FW,MKD,1999
+359,Rafa Mir,"FW,MF",ESP,1997
+360,Johan Mojica,DF,COL,1992
+361,Alberto Moleiro,MF,ESP,2003
+362,Nahuel Molina,"DF,MF",ARG,1998
+363,Jon Moncayola,MF,ESP,1998
+364,Jano Monserrate,MF,ESP,2006
+365,Jorge Montes,DF,ESP,2004
+366,Diego Morcillo,FW,ESP,2003
+367,Javi Morcillo,MF,ESP,2006
+368,Álex Moreno,DF,ESP,1993
+369,Gerard Moreno,FW,ESP,1992
+370,Matias Moreno,DF,ARG,2003
+371,Tete Morente,MF,ESP,1996
+372,Mateu Morey,"DF,MF",ESP,2000
+373,Ilaix Moriba,MF,GUI,2003
+374,Manu Morlanes,MF,ESP,1999
+375,Raúl Moro,MF,ESP,2002
+376,Santiago Mouriño,DF,URU,2002
+377,Abdul Mumin,DF,GHA,1998
+378,Aihen Muñoz,DF,ESP,1997
+379,Iker Muñoz,MF,ESP,2002
+380,Javier Muñoz,"MF,FW",ESP,1995
+381,Víctor Muñoz,"MF,FW",ESP,2003
+382,Vedat Muriqi,FW,KVX,1994
+383,Juan Musso,GK,ARG,1994
+384,Natan,DF,BRA,2001
+385,Pau Navarro,DF,ESP,2005
+386,Roberto Navarro,MF,ESP,2002
+387,Martim Neto,MF,POR,2003
+388,Yvan Neyou,MF,CMR,1997
+389,Cyril Ngonge,MF,BEL,2000
+390,Tanguy Nianzou,DF,FRA,2002
+391,Randy Nteka,FW,ANG,1997
+392,Álvaro Núñez,"DF,MF",ESP,2000
+393,Unai Núñez,DF,ESP,1997
+394,Ørjan Nyland,GK,NOR,1990
+395,Allan Nyom,DF,CMR,1988
+396,Jan Oblak,GK,SVN,1993
+397,Job Ochieng',MF,KEN,2003
+398,Álvaro Odriozola,DF,ESP,1995
+399,Olasagasti,MF,ESP,2000
+400,Dani Olmo,MF,ESP,1998
+401,Tani Oluwaseyi,FW,CAN,2000
+402,Aimar Oroz,"MF,FW",ESP,2001
+403,Ángel Ortíz,DF,ESP,2004
+404,Asier Osambela,DF,ESP,2004
+405,Azzedine Ounahi,MF,MAR,2000
+406,Mikel Oyarzabal,FW,ESP,1997
+407,Jon Pacheco,DF,ESP,2001
+408,César Palacios,MF,ESP,2004
+409,Isaac Palazón Camacho,"MF,FW",ESP,1994
+410,Diego Pampín,DF,ESP,2000
+411,Victor Parada,DF,ESP,2002
+412,Aitor Paredes,DF,ESP,2000
+413,Daniel Parejo,MF,ESP,1989
+414,Thomas Partey,MF,GHA,1993
+415,Alfonso Pedraza,DF,ESP,1996
+416,Pedri,MF,ESP,2002
+417,Adrià Pedrosa,"DF,MF",ESP,1998
+418,Iñaki Peña,GK,ESP,1999
+419,Nicolas Pépé,"MF,FW",CIV,1995
+420,Peque,"MF,FW",ESP,2002
+421,Ángel Pérez,"MF,DF",ESP,2002
+422,Ayoze Pérez,FW,ESP,1993
+423,Francisco Perez,"MF,FW",ESP,2002
+424,Joselu Pérez,DF,ESP,2004
+425,Nacho Pérez,DF,ESP,2008
+426,Léo Pétrot,DF,FRA,1997
+427,Charles Pickel,MF,COD,1997
+428,Thiago Pinar,MF,ESP,2007
+429,Lander Pinillos,MF,ESP,2003
+430,Yeremi Pino,MF,ESP,2002
+431,Portu,"FW,MF",ESP,1992
+432,Beñat Prados,MF,ESP,2001
+433,Abdón Prats,FW,ESP,1992
+434,Javi Puado,"MF,FW",ESP,1998
+435,Marc Pubill,DF,ESP,2003
+436,Aleksa Puric,DF,SRB,2003
+437,Dani Raba,FW,ESP,1995
+438,Ionuț Radu,GK,ROU,1997
+439,Ugo Raghouber,MF,FRA,2003
+440,Antonio Raillo,DF,ESP,1991
+441,Largie Ramazani,"MF,FW",BEL,2001
+442,Raphinha,"MF,FW",BRA,1996
+443,Marcus Rashford,"MF,FW",ENG,1997
+444,Giacomo Raspadori,FW,ITA,2000
+445,Andrei Ratiu,DF,ROU,1998
+446,Raúl,FW,ESP,2000
+447,Abde Rebbach,"MF,DF",ALG,1998
+448,Federico Redondo,MF,ARG,2003
+449,Alejandro Rego,MF,ESP,2003
+450,Alberto Reina,MF,ESP,1997
+451,Vitor Reis,DF,BRA,2006
+452,Álex Remiro,GK,ESP,1995
+453,Oriol Rey,MF,ESP,1998
+454,Diego Rico,DF,ESP,1993
+455,Clemens Riedel,DF,GER,2003
+456,Hugo Rincón,DF,ESP,2003
+457,Luis Rioja,MF,ESP,1993
+458,Rodrigo Riquelme,MF,ESP,2000
+459,Mihailo Ristić,"MF,DF",SRB,1995
+460,Joel Roca,MF,ESP,2005
+461,Marc Roca,MF,ESP,1996
+462,Álvaro Rodríguez,FW,URU,2004
+463,Damián Rodríguez,MF,ESP,2003
+464,Dani Rodríguez,"FW,MF",ESP,1988
+465,Guido Rodríguez,MF,ARG,1994
+466,Javi Rodríguez,DF,ESP,2003
+467,Ricardo Rodríguez,DF,SUI,1992
+468,Rodrygo,"MF,FW",BRA,2001
+469,Leo Román,GK,ESP,2000
+470,Miguel Román,MF,ESP,2002
+471,Carlos Romero,DF,ESP,2001
+472,Isaac Romero,"FW,MF",ESP,2000
+473,Iván Romero,"FW,MF",ESP,2001
+474,Zaid Romero,DF,ARG,1999
+475,Salomón Rondón,FW,VEN,1989
+476,Valentin Rosier,"DF,MF",FRA,1996
+477,Rubén,"DF,MF",ESP,2001
+478,Antonio Rüdiger,DF,GER,1993
+479,Javi Rueda,MF,ESP,2002
+480,Matteo Ruggeri,DF,ITA,2002
+481,Aitor Ruibal,"DF,MF",ESP,1996
+482,Abel Ruiz,FW,ESP,2000
+483,Mathew Ryan,GK,AUS,1992
+484,Umar Sadiq,FW,NGA,1997
+485,Jan Salas,MF,ESP,2005
+486,Kike Salas,DF,ESP,2002
+487,José Salinas,DF,ESP,2000
+488,Oihan Sancet,MF,ESP,2000
+489,Álex Sánchez,FW,ESP,2006
+490,Alexis Sánchez,"FW,MF",CHI,1988
+491,Antonio Sánchez,"MF,DF",ESP,1997
+492,Juanlu Sánchez,"MF,DF",ESP,2003
+493,Borja Sánchez Laborde,MF,ESP,1996
+494,Manu Sánchez,DF,ESP,2000
+495,Selton Sánchez,MF,ESP,2007
+496,Álex Sancris,"MF,FW",ESP,1997
+497,Buba Sangaré,"DF,MF",ESP,2007
+498,Maroan Sannadi,FW,MAR,2001
+499,Baptiste Santamaria,MF,FRA,1995
+500,Yago Santiago,MF,ESP,2003
+501,Renzo Saravia,DF,ARG,1993
+502,Martin Satriano,"FW,MF",URU,2001
+503,Taufik Seidu,MF,ESP,2008
+504,Nicolás Serrano,MF,ESP,2003
+505,Kwasi Sibo,MF,GHA,1998
+506,André Silva,FW,POR,1995
+507,Giuliano Simeone,MF,ARG,2002
+508,Unai Simón,GK,ESP,1997
+509,Antonio Sivera,GK,ESP,1996
+510,Alex Sola,"DF,FW",ESP,1999
+511,Carlos Soler,MF,ESP,1997
+512,Jhon Solis,MF,COL,2004
+513,Manor Solomon,MF,ISR,1999
+514,Hugo Solozabal,MF,ESP,2003
+515,David Soria,GK,ESP,1993
+516,Hugo Sotelo,MF,ESP,2003
+517,Djibril Sow,MF,SUI,1997
+518,Carl Starfelt,DF,SWE,1995
+519,Orri Steinn Óskarsson,FW,ISL,2004
+520,Cristhian Stuani,FW,URU,1986
+521,Denis Suárez,MF,ESP,1994
+522,Gabriel Suazo,"DF,MF",CHI,1997
+523,Luka Sučić,"MF,FW",CRO,2002
+524,Williot Swedberg,"FW,MF",SWE,2004
+525,Wojciech Szczęsny,GK,POL,1990
+526,Alexander Sørloth,FW,NOR,1995
+527,César Tárrega,DF,ESP,2002
+528,Aurélien Tchouaméni,MF,FRA,2000
+529,Nahuel Tenaglia,DF,ARG,1996
+530,Arnau Tenas,GK,ESP,2001
+531,Marc-André ter Stegen,GK,GER,1992
+532,Ramón Terrats,MF,ESP,2000
+533,Jeremy Toljan,DF,GER,1994
+534,Pablo Torre,"MF,FW",ESP,2003
+535,Jofre Torrents,DF,ESP,2007
+536,Ferrán Torres,FW,ESP,2000
+537,Lucas Torró,MF,ESP,1994
+538,Óscar Trejo,"FW,MF",ARG,1988
+539,Viktor Tsyhankov,MF,UKR,1997
+540,Kareem Tunde,MF,ESP,2005
+541,Beñat Turrientes,MF,ESP,2002
+542,Christantus Uche,FW,NGA,2003
+543,Filip Ugrinic,MF,SUI,1999
+544,Victor Valdepeñas,DF,ESP,2006
+545,Óscar Valentín,MF,ESP,1994
+546,Germán Valera,"MF,DF",ESP,2002
+547,Martin Valjent,DF,SVK,1995
+548,Álvaro Vallés,GK,ESP,1997
+549,Federico Valverde,"MF,DF",URU,1998
+550,Vladyslav Vanat,FW,UKR,2002
+551,Obed Vargas,MF,MEX,2005
+552,Ruben Vargas,"MF,FW",SUI,1998
+553,José Luis García Vayá,"MF,DF",ESP,1998
+554,Jesus Vazquez,"DF,MF",ESP,2003
+555,Luis Vázquez,FW,ARG,2001
+556,Matías Vecino,MF,URU,1991
+557,Renato Veiga,DF,POR,2003
+558,Unai Vencedor Paris,MF,ESP,2000
+559,Jozhua Vertrouwd,DF,NED,2004
+560,Mikel Vesga,MF,ESP,1993
+561,Carlos Vicente,MF,ESP,1999
+562,Nacho Vidal,DF,ESP,1995
+563,Gonzalo Villar,MF,ESP,1998
+564,Federico Viñas,"FW,MF",URU,1998
+565,Jan Virgili,"MF,FW",ESP,2006
+566,Daniel Vivian,DF,ESP,1999
+567,Odysseas Vlachodimos,GK,GRE,1994
+568,Wesley,MF,BRA,2005
+569,Iñaki Williams,"MF,FW",GHA,1994
+570,Nico Williams,MF,ESP,2002
+571,Axel Witsel,MF,BEL,1989
+572,Lamine Yamal,"MF,FW",ESP,2007
+573,Daniel Yáñez,MF,ESP,2007
+574,Arsen Zakharyan,MF,RUS,2003
+575,Bryan Zaragoza,"FW,MF",ESP,2001
+576,Max Aarons,DF,ENG,2000
+577,Rodrigo Abajas,DF,ESP,2003
+578,Nabil Aberdin,MF,FRA,2002
+579,Abdel Abqar,DF,MAR,1999
+580,Akor Adams,FW,NGA,2000
+581,Adrián,GK,ESP,1987
+582,Álvaro Aguado,MF,ESP,1996
+583,Lorenzo Aguado,DF,ESP,2002
+584,Nayef Aguerd,DF,MAR,1996
+585,Ibrahim Alani,MF,NGA,2006
+586,Raúl Albiol,DF,ESP,1985
+587,Omar Alderete,DF,PAR,1996
+588,Tadeo Allende,"FW,MF",ARG,1999
+589,Iker Almena,MF,ESP,2004
+590,Selim Amallah,MF,MAR,1996
+591,Amath,"FW,MF",SEN,1996
+592,Marcos André,FW,BRA,1996
+593,Leandro Antonetti,FW,PUR,2003
+594,Anuar,"MF,FW",MAR,1995
+595,Aritz Arambarri,DF,ESP,1998
+596,Adu Ares,MF,ESP,2001
+597,David Argüelles,DF,ESP,2002
+598,José Arnaiz,MF,ESP,1995
+599,Sergio Arribas,DF,ESP,2003
+600,Adam Aznou,"DF,MF",MAR,2006
+601,Papa Ba,FW,ESP,2004
+602,Loïc Bade,DF,FRA,2000
+603,Stefan Bajcetic,"MF,DF",ESP,2004
+604,Jonathan Bamba,"MF,FW",CIV,1996
+605,Adrian Baquerin,FW,ESP,2007
+606,Valentín Barco,DF,ARG,2004
+607,Borna Barišić,DF,CRO,1992
+608,Enzo Barrenechea,MF,ARG,2001
+609,Thierno Barry,FW,FRA,2002
+610,Aboubacar Bassinga,MF,CIV,2005
+611,Rafael Bauza,MF,ESP,2005
+612,Juan Bernat,MF,ESP,1993
+613,Juan Berrocal,DF,ESP,1999
+614,Darko Brašanac,MF,SRB,1992
+615,Endika Buján,FW,ESP,2003
+616,Pau Cabanes,MF,ESP,2005
+617,José Campaña,MF,ESP,1993
+618,Peio Canales,MF,ESP,2005
+619,Antonio Candela,DF,ITA,2000
+620,Sergi Canós,MF,ESP,1997
+621,Irvin Cardona,"FW,MF",MLT,1997
+622,Marc Cardona,FW,ESP,1995
+623,José Carlos González,MF,ESP,2006
+624,William Carvalho,MF,POR,1992
+625,Maximiliano Caufriez,DF,BEL,1997
+626,Franco Cervi,"MF,FW",ARG,1994
+627,Raúl Chasco,DF,ESP,2003
+628,Walid Cheddira,FW,MAR,1998
+629,Chema,MF,ESP,2005
+630,Julián Chicco,"MF,DF",ARG,1998
+631,Chiquinho,MF,POR,2000
+632,Jasper Cillessen,GK,NED,1989
+633,Seydouba Cissé,MF,GUI,2001
+634,Silvi Clúa,MF,ESP,2005
+635,Diego Conde,GK,ESP,1998
+636,Tomás Conechny,"MF,FW",ARG,1998
+637,Iker Córdoba,DF,ESP,2005
+638,Ángel Correa,FW,ARG,1995
+639,Logan Costa,DF,CPV,2001
+640,Juan Cruz,"MF,DF",ESP,2000
+641,Rodrigo De Paul,MF,ARG,1994
+642,Assane Diao,FW,SEN,2005
+643,Diego,"FW,MF",ESP,2000
+644,Yan Diomandé,MF,CIV,2006
+645,Álvaro djaló,"MF,FW",GNB,1999
+646,Israel Domínguez,MF,ESP,2003
+647,Sergi Dominguez,DF,ESP,2005
+648,Anastasios Douvikas,FW,GRE,1999
+649,Duk,MF,CPV,2000
+650,Adri Embarba,"MF,FW",ESP,1992
+651,Dario Essugo,MF,POR,2005
+652,Etienne Eto'o,FW,CMR,2002
+653,Ansu Fati,MF,ESP,2002
+654,Nabil Fekir,MF,FRA,1993
+655,Aitor Fernández,GK,ESP,1991
+656,Álvaro Fernández,GK,ESP,1998
+657,Valery Fernández,MF,ESP,1999
+658,André Ferreira,GK,POR,1996
+659,Mateo Flores,MF,ESP,2004
+660,Fran,GK,ESP,2005
+661,Enric Franquesa,"MF,DF",ESP,1997
+662,Darío Fuentes,DF,ESP,2003
+663,Manuel Fuster,"MF,FW",ESP,1997
+664,Unai García,DF,ESP,1992
+665,Yarek Gasiorowski,DF,ESP,2005
+666,Dani Gómez,FW,ESP,1998
+667,Sergi Gómez,DF,ESP,1992
+668,Fabio González,MF,ESP,1997
+669,Peter González,MF,DOM,2002
+670,José Gragera,MF,ESP,2000
+671,Dominik Greif,GK,SVK,1997
+672,Florian Grillitsch,MF,AUT,1995
+673,Vicente Guaita,GK,ESP,1987
+674,Sergi Guardiola,FW,ESP,1991
+675,Hugo Guillamón,MF,ESP,2000
+676,Carlos Guirao,MF,ESP,2003
+677,Miguel Gutiérrez,"DF,MF",ESP,2001
+678,Munir El Haddadi,"MF,FW",MAR,1995
+679,Sébastien Haller,FW,CIV,1994
+680,Henrique,DF,BRA,1994
+681,Aridane Hernández,DF,ESP,1989
+682,Javi Hernández,DF,ESP,1998
+683,Ander Herrera,MF,ESP,1989
+684,Juanma Herzog,DF,ESP,2004
+685,Roger Hinojo,DF,ESP,2005
+686,Dinko Horkaš,GK,CRO,1999
+687,Kelechi Iheanacho,FW,NGA,1996
+688,Diego Iturralde,MF,ESP,2003
+689,Ivan Jaime Pajuelo,MF,ESP,2000
+690,Karl Jakob Hein,GK,EST,2002
+691,John Joe,MF,IRL,2003
+692,Juanpe,DF,ESP,1991
+693,Abdulai Juma Bah,DF,SLE,2006
+694,Stanko Jurić,MF,CRO,1996
+695,Abdoulaye Keita,MF,ESP,2002
+696,Kenedy,"FW,MF",BRA,1996
+697,Alex Král,MF,CZE,1998
+698,Luca de la Torre,MF,USA,1998
+699,Cyle Larin,FW,CAN,1995
+700,Juanmi Latasa,FW,ESP,2001
+701,Samuel Lino,MF,BRA,1999
+702,Enzo Loiodice,MF,FRA,2000
+703,Roberto López,MF,ESP,2000
+704,Daniel Luna,MF,COL,2003
+705,Darwin Machís,"MF,FW",VEN,1993
+706,Jon Magunazelaia,MF,ESP,2001
+707,Giorgi Mamardashvili,GK,GEO,2000
+708,Reinildo Mandava,"DF,MF",MOZ,1994
+709,Javier Manquillo,DF,ESP,1994
+710,Óscar de Marcos,DF,ESP,1989
+711,Alberto Marí,FW,ESP,2001
+712,Mika Mármol,DF,ESP,2001
+713,Mario Maroto,MF,ESP,2003
+714,Unai Marrero,GK,ESP,2001
+715,Diego Martín,FW,ESP,2003
+716,Iñigo Martínez,DF,ESP,1991
+717,Javi Martínez,MF,ESP,1999
+718,Javi Martón,FW,ESP,1999
+719,Marvin,"DF,MF",ESP,2000
+720,Jaime Mata,"MF,FW",ESP,1988
+721,Oliver McBurnie,FW,SCO,1996
+722,Scott McKenna,DF,SCO,1996
+723,Mateo Mejía,FW,ESP,2003
+724,Arthur Melo,MF,BRA,1996
+725,Víctor Meseguer,MF,ESP,1999
+726,Miguel,FW,ESP,1999
+727,Kim Minsu,FW,KOR,2006
+728,Luka Modrić,MF,CRO,1985
+729,Gonzalo Montiel,DF,ARG,1997
+730,Xavier Moreno,FW,ESP,2004
+731,Cristhian Mosquera,DF,ESP,2004
+732,Álex Muñoz,DF,ESP,1994
+733,Matija Nastasić,DF,SRB,1993
+734,Jesús Navas,"MF,FW",ESP,1985
+735,Saúl Ñíguez,MF,ESP,1994
+736,Tamás Nikitscher,"MF,DF",HUN,1999
+737,Adrian Niño,FW,ESP,2004
+738,Hugo Novoa,"MF,DF",ESP,2003
+739,Lucas Ocampos,"MF,FW",ARG,1994
+740,Thiago Ojeda,MF,ARG,2003
+741,Aingeru Olabarrieta,MF,ESP,2005
+742,Brian Oliván,DF,ESP,1994
+743,Lucas Oliveira Rosa,DF,BRA,2000
+744,Gabriel Osei Misehouy,FW,NED,2005
+745,David Otorbi,FW,ESP,2007
+746,Jesús Owono,GK,EQG,2001
+747,Cenk Özkacar,DF,TUR,2000
+748,Alex Padilla,GK,ESP,2003
+749,Iago Parente,DF,ESP,2006
+750,Álvaro Pascual,FW,ESP,2002
+751,Pejiño,MF,ESP,1996
+752,Andy Pelmard,DF,MAD,2000
+753,Rubén Peña,"FW,DF",ESP,1991
+754,Carles Pérez,MF,ESP,1998
+755,Kike Pérez,MF,ESP,1997
+756,Luis Pérez,DF,ESP,1995
+757,Romain Perraud,DF,FRA,1997
+758,Valentín Pezzolesi,DF,ESP,2007
+759,Pica,DF,ESP,2002
+760,Arnau Rafús,GK,ESP,2003
+761,Benito Ramírez,"MF,DF",ESP,1995
+762,Sandro Ramírez,"MF,FW",ESP,1995
+763,Jacobo Ramón,DF,ESP,2005
+764,Daniel Requena,MF,ESP,2004
+765,Alberto Risco,MF,ESP,2005
+766,Gorka Rivera Alonso,DF,ESP,2004
+767,Rodri,MF,ESP,2000
+768,Adrian Rodriguez,GK,ESP,2000
+769,Óscar Rodríguez Arnaiz,MF,ESP,1998
+770,Arturo Rodríguez,FW,ESP,2006
+771,Daniel Rodriguez,MF,ESP,2005
+772,James Rodríguez,MF,COL,1991
+773,Jesus Rodríguez,MF,ESP,2005
+774,Kirian Rodríguez,MF,ESP,1996
+775,Luka Romero,"MF,FW",ARG,2004
+776,Oriol Romeu,MF,ESP,1991
+777,Vitor Roque,FW,BRA,2005
+778,Ferrán Ruiz,DF,ESP,2003
+779,Youssouf Sabaly,DF,SEN,1993
+780,Jorge Sáenz,DF,ESP,1996
+781,Albert Sambi Lokonga,MF,BEL,1999
+782,Chuky san jose,"MF,FW",ESP,2004
+783,Iván Sánchez,MF,ESP,1992
+784,Javi Sánchez,DF,ESP,1997
+785,Yellu Santiago,MF,ESP,2004
+786,Aleksandar Sedlar,DF,SRB,1991
+787,Sergi,DF,ESP,1992
+788,Fábio Silva,FW,POR,2002
+789,Rui Silva,GK,POR,1994
+790,Daley Sinkgraven,DF,NED,1995
+791,Jailson Siqueira,DF,BRA,1995
+792,Justin Smith,MF,CAN,2003
+793,Arnau Solà,DF,ESP,2003
+794,Juan Soriano,GK,ESP,1997
+795,Stoichkov,"MF,FW",ESP,1993
+796,Álex Suárez,DF,ESP,1993
+797,Suso,"MF,FW",ESP,1993
+798,Mamadou Sylla,"FW,MF",SEN,1994
+799,Renato Tapia,"MF,DF",PER,1995
+800,Álvaro Tejero,"MF,DF",ESP,1996
+801,Martín Tejón,MF,ESP,2004
+802,Raúl de Tomás,FW,ESP,1994
+803,David Torres,DF,ESP,2003
+804,Hamari Traoré,DF,MLI,1992
+805,Naci Ünüvar,"FW,MF",NED,2003
+806,Jesús Vallejo,DF,ESP,1997
+807,Siebe Van Der Heyden,DF,BEL,1998
+808,Lucas Vázquez,DF,ESP,1991
+809,Alejo Véliz,FW,ARG,2003
+810,Pau Victor,FW,ESP,2001
+811,Fran Vieites,GK,ESP,1999
+812,Sergio Viera,MF,ESP,2005
+813,Asier Villalibre,FW,ESP,1997
+814,Iván Villar,GK,ESP,1997
+815,Viti,DF,ESP,1997
+816,Bertuğ Yıldırım,FW,TUR,2002
+817,Igor Zubeldia,DF,ESP,1997
+818,Martín Zubimendi,MF,ESP,1999
+819,Abner,DF,BRA,2000
+820,Marcos Acuña,"DF,MF",ARG,1991
+821,Sergio Akieme,"DF,MF",ESP,1997
+822,Paul Akouokou,MF,CIV,1997
+823,Rubén Alcaraz,MF,ESP,1991
+824,Iván Alejo,MF,ESP,1995
+825,Mohamed Ali Cho,FW,FRA,2004
+826,Gastón Álvarez,DF,URU,2000
+827,Fabrizio Angileri,DF,ARG,1994
+828,Julian Araujo,DF,MEX,2001
+829,Matias Arezo,FW,URU,2002
+830,Kepa Arrizabalaga,GK,ESP,1994
+831,Iddrisu Baba,MF,GHA,1996
+832,Srđan Babić,DF,SRB,1996
+833,Léo Baptistão,"FW,MF",BRA,1992
+834,Bebé,"FW,MF",CPV,1990
+835,Adri Bosch,DF,ESP,2001
+836,Yassine Bounou,GK,MAR,1991
+837,Brau,DF,ESP,2001
+838,Claudio Bravo,GK,CHI,1983
+839,Ben Brereton,"MF,FW",CHI,1999
+840,Pablo Busto,DF,ESP,2005
+841,José Callejón,"MF,FW",ESP,1987
+842,Étienne Capoue,MF,FRA,1988
+843,Isaac Carcelen,DF,ESP,1993
+844,Yannick Carrasco,"DF,MF",BEL,1993
+845,Álex Centelles,DF,ESP,1997
+846,Chumi,DF,ESP,1999
+847,Saúl Coco,DF,EQG,1999
+848,Francis Coquelin,MF,FRA,1991
+849,Theo Corbeanu,MF,CAN,2002
+850,Jesús Corona,"DF,FW",MEX,1993
+851,Jaume Costa,"DF,MF",ESP,1988
+852,Yan Couto,"MF,DF",BRA,2002
+853,Crespo,MF,POR,1996
+854,Cristian,GK,ESP,1998
+855,Iván Cuéllar,GK,ESP,1984
+856,Jorge Cuenca,DF,ESP,1999
+857,Eric Curbelo,DF,ESP,1994
+858,Alberto Dadie,DF,ESP,2002
+859,Moussa Diakité,MF,MLI,2003
+860,Víctor Díaz,DF,ESP,1988
+861,Famara Diedhiou,FW,SEN,1992
+862,Jaume Doménech,GK,ESP,1990
+863,Mario Dominguez,MF,ESP,2004
+864,Carlos Dotor,MF,ESP,2001
+865,Artem Dovbyk,FW,UKR,1997
+866,Rubén Duarte,DF,ESP,1995
+867,Youssef En-Nesyri,FW,MAR,1997
+868,Gonzalo Escalante,MF,ARG,1993
+869,Bernardo Espinosa,DF,COL,1989
+870,Radamel Falcao,FW,COL,1986
+871,Fali,DF,ESP,1993
+872,João Félix,FW,POR,1999
+873,Álex Fernández,MF,ESP,1992
+874,Carlos Fernández,FW,ESP,1996
+875,Raúl Fernández,GK,ESP,1988
+876,Fernando,MF,BRA,1987
+877,Rachad Fettal,FW,MAR,2005
+878,Daniel Fuzato,GK,BRA,1997
+879,Matteo Gabbia,DF,ITA,1999
+880,Aleix García,MF,ESP,1997
+881,Dani García,MF,ESP,1990
+882,David García,DF,ESP,1994
+883,Jastin García,FW,ESP,2004
+884,Raúl García,FW,ESP,1986
+885,Santiago García,MF,ESP,2001
+886,David Gil,GK,ESP,1994
+887,Maxi Gómez,FW,URU,1996
+888,Édgar González,"DF,MF",ESP,1997
+889,Giovanni González,DF,URU,1994
+890,Iñaki González,MF,ESP,2004
+891,Pablo Gozalbez,MF,ESP,2001
+892,Mason Greenwood,"MF,FW",ENG,2001
+893,Andrés Guardado,MF,MEX,1986
+894,Marc Guiu,FW,ESP,2006
+895,İlkay Gündoğan,MF,GER,1990
+896,Ianis Hagi,MF,ROU,1998
+897,Luiz Henrique,MF,BRA,2001
+898,Mario Hermoso,DF,ESP,1995
+899,Luis Hernández,DF,ESP,1989
+900,Cristian Herrera,MF,ESP,1991
+901,Martin Hongla,"MF,DF",CMR,1998
+902,Xabier Huarte Armendáriz,MF,ESP,2001
+903,Imanol,DF,ESP,2000
+904,Luis Javier Suárez,"FW,MF",COL,1997
+905,Salim El Jebari,MF,MAR,2004
+906,Jordi,MF,ESP,2001
+907,Jeremy Jorge,FW,ESP,2003
+908,Willian José,FW,BRA,1991
+909,Joselu,FW,ESP,1990
+910,Kamil Jóźwiak,MF,POL,1998
+911,Filip Jørgensen,GK,DEN,2002
+912,Sory Kaba,FW,GUI,1995
+913,Kaiky,DF,BRA,2004
+914,Ibrahima Kebe,MF,MLI,2000
+915,Ibrahima Koné,FW,MLI,1999
+916,Rominigue Kouamé,MF,MLI,1996
+917,Toni Kroos,MF,GER,1990
+918,Érik Lamela,MF,ARG,1992
+919,Bruno Langa,DF,MOZ,1997
+920,Lázaro,MF,BRA,2002
+921,Jeremías Ledesma,GK,ARG,1993
+922,Stefan Lekovic,DF,SRB,2004
+923,Álvaro Lemos,DF,ESP,1993
+924,Dion Lopy,MF,SEN,2002
+925,Anthony Lozano,FW,HON,1993
+926,Lucas,DF,BRA,2001
+927,Nemanja Maksimović,MF,SRB,1995
+928,Wilson Manafá,"DF,MF",POR,1994
+929,Aïssa Mandi,DF,ALG,1991
+930,Faitout Maouassa,DF,FRA,1998
+931,José Mari,MF,ESP,1987
+932,Diego Mariño,GK,ESP,1990
+933,Roger Martí,FW,ESP,1991
+934,Marc Martínez,GK,ESP,1990
+935,Luís Maximiano,GK,POR,1999
+936,Mamadou Mbaye,DF,SEN,1998
+937,Hannibal Mejbri,MF,TUN,2003
+938,Óscar Melendo,"MF,FW",ESP,1997
+939,Gonzalo Melero,"MF,FW",ESP,1994
+940,Memphis,FW,NED,1994
+941,Houboulang Mendes,DF,GNB,1998
+942,Tomás Mendes,MF,ESP,2004
+943,Bruno Méndez,DF,URU,1999
+944,Diego Méndez,MF,ESP,2003
+945,Jorge Meré,DF,ESP,1997
+946,Mikel Merino,MF,ESP,1996
+947,Omenuke Mfulu,MF,COD,1994
+948,Marko Milovanović,FW,SRB,2003
+949,Ignasi Miquel,DF,ESP,1992
+950,Juan Miranda,DF,ESP,2000
+951,Stefan Mitrović,DF,SRB,1990
+952,César Montes,DF,MEX,1997
+953,Álvaro Morata,FW,ESP,1992
+954,Alberto Moreno,DF,ESP,1992
+955,Jorge Moreno,DF,ESP,2001
+956,Yerson Mosquera,DF,COL,2001
+957,Iker Muniain,MF,ESP,1992
+958,Nacho,DF,ESP,1990
+959,Álvaro Negredo,FW,ESP,1985
+960,Carlos Neva,DF,ESP,1996
+961,Peru Nolaskoain,"DF,MF",ESP,1998
+962,Brian Ocampo,MF,URU,1999
+963,Samu Omorodion,FW,ESP,2004
+964,Eneko Ortiz,MF,ESP,2003
+965,Milutin Osmajić,FW,MNE,1999
+966,Aiham Ousou,DF,SYR,2000
+967,Joaquín Panichelli,"MF,FW",ARG,2002
+968,Sokratis Papastathopoulos,DF,GRE,1988
+969,Pascu,FW,ESP,2003
+970,Gabriel Paulista,DF,BRA,1990
+971,Nicolás Paz,MF,ARG,2004
+972,Facundo Pellistri,"MF,FW",URU,2001
+973,Marcos Peña,MF,ESP,2005
+974,Alberto Perea,"FW,MF",ESP,1990
+975,Máximo Perrone,MF,ARG,2003
+976,Njegoš Petrović,MF,SRB,1999
+977,Germán Pezzella,DF,ARG,1991
+978,Kamil Piątkowski,DF,POL,2000
+979,José Pozo,"FW,MF",ESP,1996
+980,Alejandro Pozo Pozo,"DF,MF",ESP,1999
+981,Antonio Puertas,"MF,FW",ESP,1992
+982,Arnau Puigmal,"MF,DF",ESP,2001
+983,Nemanja Radonjić,MF,SRB,1996
+984,Aleksandar Radovanović,DF,SRB,1993
+985,Abdellah Raihani,FW,MAR,2004
+986,Predrag Rajković,GK,SRB,1995
+987,Ivan Rakitić,MF,CRO,1988
+988,Chris Ramos,FW,ESP,1997
+989,Sergio Ramos,DF,ESP,1986
+990,Pepe Reina,GK,ESP,1982
+991,Chadi Riad,DF,MAR,2003
+992,Sergi Roberto,"MF,DF",ESP,1992
+993,Lucas Robertone,MF,ARG,1997
+994,Sergio Rodelas,"MF,FW",ESP,2004
+995,Miguel Rodríguez,MF,ESP,2003
+996,Unai Ropero,FW,ESP,2001
+997,Sergio Ruiz,MF,ESP,1994
+998,Pablo Saenz,MF,ESP,2001
+999,Salvi,MF,ESP,1991
+1000,Diadie Samassékou,MF,MLI,1996
+1001,Fede San Emeterio,MF,ESP,1997
+1002,Ricard Sánchez,DF,ESP,2000
+1003,Paco Sanz,DF,ESP,2004
+1004,Stefan Savić,DF,MNE,1991
+1005,Sávio,"MF,FW",BRA,2004
+1006,Rubén Sobrino,"MF,FW",ESP,1992
+1007,Alberto Soro,"FW,MF",ESP,1999
+1008,Boubakary Soumaré,MF,FRA,1999
+1009,Çağlar Söyüncü,DF,TUR,1996
+1010,Jørgen Strand Larsen,FW,NOR,2000
+1011,Damián Suárez,DF,URU,1988
+1012,Max Svensson,FW,ESP,2001
+1013,Yassin Tallal,MF,ESP,2005
+1014,Marciano Tchami,FW,GNB,2004
+1015,Kieran Tierney,DF,SCO,1997
+1016,Raúl Torrente,DF,ESP,2001
+1017,Óliver Torres,MF,ESP,1994
+1018,Bertrand Traoré,MF,BFA,1995
+1019,Manu Trigueros,MF,ESP,1991
+1020,Enes Ünal,FW,TUR,1997
+1021,Myrto Uzuni,"FW,MF",ALB,1995
+1022,Borja Vázquez,FW,ESP,2005
+1023,Kevin Vázquez,DF,ESP,1993
+1024,Gabriel Veiga,MF,ESP,2002
+1025,Arthur Vermeeren,MF,BEL,2005
+1026,Jonathan Viera,MF,ESP,1989
+1027,Toni Villa,MF,ESP,1995
+1028,Ricardo Visus,DF,ESP,2001
+1029,Shon Weissman,FW,ISR,1996
+1030,Xeber,"MF,FW",ESP,1997
+1031,Antal Yaakobishvili,DF,HUN,2004
+1032,Roman Yaremchuk,FW,UKR,1995
+1033,Joseba Zaldúa,"DF,MF",ESP,1992
